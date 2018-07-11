@@ -1,0 +1,38 @@
+.pt-page .service-image {
+  width: 150px;
+  height: 90px;
+  background-color: black;
+}
+
+.pt-page .service-image img {
+  height: 35px;
+}
+
+.pt-page blockquote {
+  font-size: 75%;
+  margin: 10px 0;
+}
+
+.pt-page ul.experience {
+  list-style: square;
+  text-align: left
+}
+
+.pt-page span.value {
+  display: block;
+}
+
+.lm-pricing .lm-package {
+  margin-bottom: 10px;
+}
+
+.start-page-content .page-header .title-block h1 {
+  font-size: 40px;
+}
+.panel-heading {
+  padding: 0;
+}
+.panel-heading span {
+  margin-top: -20px;
+  font-size: 15px;
+}
